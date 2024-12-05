@@ -1,2 +1,1 @@
-# HTTP-Server-Cpp-
-HTTP web server has been developed entirely from scratch on TCP/IP connection using C++ and socket programming
+In this C++ application, an HTTP web server has been developed entirely from scratch, without relying on any third-party libraries for HTTP webserver. The server utilizes a TCP/IP connection and is registered to an IP address on the computer through the use of a TCP/IP socket. The internet protocol has been defined using sys/socket.h and arpa/inet.h.
